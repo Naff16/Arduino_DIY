@@ -1,7 +1,6 @@
 /*
-  Author: André Ferraz
   Date: 05/11/2018
-  DIY WorkShop
+  DIY
 */
 
 /*

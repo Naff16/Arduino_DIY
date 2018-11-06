@@ -1,2 +1,6 @@
-# Arduino_DIY
-Some projects to start with Arduino
+# Arduino DIY
+
+## How to start
+
+Install Arduino IDE
+- [Arduino IDE](https://www.arduino.cc/en/Main/Software)
