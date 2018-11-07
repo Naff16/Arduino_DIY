@@ -1,13 +1,13 @@
 # Arduino DIY
 
-This repository contains some sketches of Arduino [projects](Arduino_DIY/DIY), that can help to start with Arduino development to your DIY projects.
+This repository contains some sketches of Arduino [projects](https://github.com/Naff16/Arduino_DIY/tree/master/DIY), that can help to start with Arduino development to your DIY projects.
 
 ## Sketches
-1. [Blink](Arduino_DIY/DIY/Blink_DIY)
-2. [Push button](Arduino_DIY/DIY/Push_Button_DIY)
-3. [Servo](Arduino_DIY/DIY/Servo_DIY)
-4. [RFID](Arduino_DIY/DIY/RFID_DIY)
-5. [DHT](Arduino_DIY/DIY/DHT_DIY/)
+1. [Blink](https://github.com/Naff16/Arduino_DIY/tree/master/DIY/Blink_DIY)
+2. [Push button](https://github.com/Naff16/Arduino_DIY/tree/master/DIY/Push_Button_DIY)
+3. [Servo](https://github.com/Naff16/Arduino_DIY/tree/master/DIY/RFID_DIY)
+4. [RFID](https://github.com/Naff16/Arduino_DIY/tree/master/DIY/RFID_DIY)
+5. [DHT](https://github.com/Naff16/Arduino_DIY/tree/master/DIY/DHT_DIY)
 
 ## How to start
 1. Install Arduino IDE
