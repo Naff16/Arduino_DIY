@@ -1,15 +1,7 @@
 # Arduino DIY
 
-This repository contains some sketches of Arduino [projects](Arduino_DIY/DIY), that can help to start with Arduino development to your DIY projects.
-
-## Sketches
-1. [Blink](Arduino_DIY/DIY/Blink_DIY)
-2. [Blink](Arduino_DIY/DIY/Push_Button_DIY)
-3. [Blink](Arduino_DIY/DIY/Servo_DIY)
-4. [Blink](Arduino_DIY/DIY/RFID_DIY)
-5. [Blink](Arduino_DIY/DIY/DHT_DIY/)
-
 ## How to start
+
 1. Install Arduino IDE
 - [Arduino IDE](https://www.arduino.cc/en/Main/Software)
 
@@ -19,6 +11,7 @@ This repository contains some sketches of Arduino [projects](Arduino_DIY/DIY), t
 - Tools -> Port -> COM
 
 ## Installing arduino libraries
+
 1. Download thr required library
 2. Unzip it
 3. Copy and paste it in C:\Users\Username\Documents\Arduino\libraries (If a regular installation this will be the path)
