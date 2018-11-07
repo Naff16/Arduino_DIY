@@ -4,19 +4,19 @@ This repository contains some sketches of Arduino [projects](Arduino_DIY/DIY), t
 
 ## Sketches
 1. [Blink](Arduino_DIY/DIY/Blink_DIY)
-2. [Blink](Arduino_DIY/DIY/Push_Button_DIY)
-3. [Blink](Arduino_DIY/DIY/Servo_DIY)
-4. [Blink](Arduino_DIY/DIY/RFID_DIY)
-5. [Blink](Arduino_DIY/DIY/DHT_DIY/)
+2. [Push button](Arduino_DIY/DIY/Push_Button_DIY)
+3. [Servo](Arduino_DIY/DIY/Servo_DIY)
+4. [RFID](Arduino_DIY/DIY/RFID_DIY)
+5. [DHT](Arduino_DIY/DIY/DHT_DIY/)
 
 ## How to start
 1. Install Arduino IDE
-- [Arduino IDE](https://www.arduino.cc/en/Main/Software)
+	- [Arduino IDE](https://www.arduino.cc/en/Main/Software)
 
 2. Choose the proper board
-- Tools -> Boards -> Arduino Uno...
+	- Tools -> Boards -> Arduino Uno...
 3. Choose the correct port
-- Tools -> Port -> COM
+	- Tools -> Port -> COM
 
 ## Installing arduino libraries
 1. Download thr required library
