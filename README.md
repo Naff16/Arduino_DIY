@@ -23,3 +23,7 @@ This repository contains some sketches of Arduino [projects](https://github.com/
 2. Unzip it
 3. Copy and paste it in C:\Users\Username\Documents\Arduino\libraries (If a regular installation this will be the path)
 4. Open the Arduino IDE
+
+## Authors
+
+* **Naff16**
