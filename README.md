@@ -14,7 +14,7 @@ This repository contains some sketches of Arduino [projects](https://github.com/
 	- [Arduino IDE](https://www.arduino.cc/en/Main/Software)
 
 2. Choose the proper board
-	- Tools -> Boards -> Arduino Uno...
+	- Tools -> Boards -> Arduino Uno (Or another)
 3. Choose the correct port
 	- Tools -> Port -> COM
 
