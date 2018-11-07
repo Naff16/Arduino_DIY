@@ -11,4 +11,4 @@ In this example we will show how turn a LED on and off using a push button.
 
 ### Arduino Sketch
 
-The sketch can be found at [Blink](https://github.com/Naff16/Arduino_DIY/blob/master/DIY/Push_Button_DIY/Push_Button_DIY.ino).
+The sketch can be found at [Push Button](https://github.com/Naff16/Arduino_DIY/blob/master/DIY/Push_Button_DIY/Push_Button_DIY.ino).
