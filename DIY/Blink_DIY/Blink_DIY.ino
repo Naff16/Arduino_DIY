@@ -10,7 +10,7 @@
 */
 
 //Constant
-int led_pin = 3; // LED pin
+int led_pin = 6; // LED pin
 
 void setup() {
   pinMode(led_pin, OUTPUT);  // initialize digital pin led_pin as an output.

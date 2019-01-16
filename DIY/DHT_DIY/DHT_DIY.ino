@@ -22,7 +22,7 @@
 #define DHTTYPE DHT11   // DHT 11
 DHT dht(DHTPIN, DHTTYPE); // Initialize DHT sensor
 LiquidCrystal_I2C lcd(0x27, 16, 2);
-int relay = 11; // Relay pin
+int relay = 8; // Relay pin
 
 //Variables
 int humi;  //Stores humidity value

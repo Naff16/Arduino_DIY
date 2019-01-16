@@ -11,8 +11,8 @@
 */
 
 //Constants
-int led_pin = 4;
-int push_button = 2;
+int led_pin = 6;
+int push_button = 4;
 
 void setup() {
   Serial.begin(9600);

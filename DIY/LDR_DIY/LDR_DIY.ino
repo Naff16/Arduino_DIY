@@ -12,7 +12,7 @@
 
 //Constants
 int sensorPin = A0;  // input pin for LDR
-int ledPin = 4;  // input pin for LED
+int ledPin = 6;  // input pin for LED
 
 int sensorValue = 0;  // varaible to store de LDR value
 
