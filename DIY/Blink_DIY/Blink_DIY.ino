@@ -5,7 +5,7 @@
 
 /*
   Title: Blink
-  Descrption:
+  Description:
   This program will turn on and off an LED.
 */
 
