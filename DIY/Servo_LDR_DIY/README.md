@@ -9,8 +9,8 @@ In this example we will show how to actuate a servo motor by using an LDR (Light
 
 ### Schematics
 
-![Servo Schematic](https://github.com/Naff16/Arduino_DIY/blob/master/DIY/Servo_DIY/Schematic_Servo_motor_DIY.png)
+![Servo Schematic](https://github.com/Naff16/Arduino_DIY/blob/master/DIY/Servo_LDR_DIY/Servo_motor_LDR_DIY.png)
 
 ### Arduino Sketch
 
-The sketch can be found at [Servo_LDR](https://github.com/Naff16/Arduino_DIY/blob/master/DIY/Servo_DIY/Servo_DIY.ino).
+The sketch can be found at [Servo_LDR](https://github.com/Naff16/Arduino_DIY/blob/master/DIY/Servo_LDR_DIY/Servo_LDR_DIY.ino).
