@@ -5,7 +5,7 @@
 
 /*
   Title: Humidity and temperature sensor display
-  Descrption:
+  Description:
   This program will read a temperature and humidity
   sensor and display both values in a LCD display
   16x02 using I2C protocol. A pre-defined value of
