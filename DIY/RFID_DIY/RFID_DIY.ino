@@ -5,7 +5,7 @@ DIY
 
 /*
 Title: RFID tag detection                         
-Descrption:                                                       
+Description:                                                       
 	This program detects a RFID tag, if the           
 	tag is recognized a green led will light up       
 	and a specific beep will sound, otherwise a       
