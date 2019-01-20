@@ -25,6 +25,13 @@ This repository contains some sketches of Arduino [projects](https://github.com/
 3. Copy and paste it in C:\Users\Username\Documents\Arduino\libraries (If a regular installation this will be the path)
 4. Open the Arduino IDE
 
-## Authors
+## Troubleshooting
+##### -  Using clone boards
+1. **Problem:** COM port not appearing.
+-- **Solution:** Install CH340 drivers: [CH340](https://sparks.gogo.co.nz/ch340.html)
+2. **Problem:** Progmam not compiling to the board.
+-- **Solution 1:** Choose the correct board
+-- **Solution 2:** Choose the (Old Bootloader) option for the processor 
 
+## Authors
 * **Naff16**
