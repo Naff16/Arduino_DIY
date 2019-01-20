@@ -5,9 +5,10 @@
 
 /*
   Title: Light detector (LDR)
-  Descrption:
+  Description:
   This program will use an LDR (Light Dependent Resistor), to detect the environment luminosity
   and turn on or off a light depending on it.
+  LDR (0 -> Light / 1024 -> No light).
 */
 
 //Constants
