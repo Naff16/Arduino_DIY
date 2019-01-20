@@ -3,7 +3,7 @@
 
 ## Blink example
 
-In this example we will show how to simple blink a LED using an Arduino.
+In this example we will show how to blink a LED using an Arduino.
 
 ### Schematics
 
