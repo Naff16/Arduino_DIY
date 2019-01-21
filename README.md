@@ -35,7 +35,7 @@ This repository contains some sketches of Arduino [projects](https://github.com/
 	* **Solution 2:** Choose the (Old Bootloader) option for the processor 
 
 ## New projects
-### - IOT
+* **IOT**
 
 ## Authors
 * **Naff16**
