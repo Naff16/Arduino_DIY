@@ -22,6 +22,11 @@ This repository contains some sketches of Arduino [projects](https://github.com/
 
 ## Installing arduino libraries
 1. Download the required library
+1.2. Used in the examples:
+* https://github.com/adafruit/DHT-sensor-library
+* https://github.com/marcoschwartz/LiquidCrystal_I2C
+* https://github.com/miguelbalboa/rfid
+* https://github.com/arduino-libraries/Servo
 2. Unzip it
 3. Copy and paste it in C:\Users\Username\Documents\Arduino\libraries (If a regular installation this will be the path)
 4. Open the Arduino IDE
