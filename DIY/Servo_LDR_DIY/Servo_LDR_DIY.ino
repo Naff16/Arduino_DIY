@@ -8,7 +8,7 @@
   Description:
   This program will use an LDR (Light Dependent Resistor), to detect the environment luminosity
   and control the angle of a servo motor.
-  LDR (0 -> Light / 1024 -> No light).
+  LDR (0 -> Light / 1023 -> No light).
   Servo motor ( 0° -> Closed / 180° -> Open).
 */
 
@@ -35,7 +35,7 @@ void loop() {
 
   // The map function will map the range from the LDR (0-1024) to the servo angle (0-180)
   // map(value, fromLow, fromHigh, toLow, toHigh)
-  servo_angle = map(sensorValue, 0, 1024, 0, 180);  
+  servo_angle = map(sensorValue, 0, 1023, 0, 180);  
   
   // write the servo angle
   servo_Motor.write(servo_angle);
