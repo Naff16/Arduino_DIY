@@ -16,7 +16,7 @@ int push_button = 4;
 
 void setup() {
   Serial.begin(9600);
-  //configure pin 2 as an input and enable the internal pull-up resistor
+  //configure pin 4 as an input and enable the internal pull-up resistor
   pinMode(push_button, INPUT_PULLUP);
   pinMode(led_pin, OUTPUT);
 
