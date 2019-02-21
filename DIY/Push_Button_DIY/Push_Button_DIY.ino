@@ -7,7 +7,7 @@
   Title: Push Button Pull-up
   Description:
   This example demonstrates the use of pinMode(INPUT_PULLUP). It reads a digital
-  input on pin 2 and turn a LED on when pressed.
+  input on pin 4 and turn a LED on when pressed.
 */
 
 //Constants
