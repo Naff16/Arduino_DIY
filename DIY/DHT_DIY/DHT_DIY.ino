@@ -31,7 +31,7 @@ int temp; //Stores temperature value
 
 int air_conditioning(int temperature) {  // Function to turn relay ON and OFF based in the temperature value.
 
-  if (temperature > 20) {
+  if (temperature > 18) {
     digitalWrite(relay, HIGH);  // Turn Relay ON
     Serial.print("The relay is ON\n");
   }
