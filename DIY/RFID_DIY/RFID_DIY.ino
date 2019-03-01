@@ -65,7 +65,8 @@ void loop()
   
   content.toUpperCase();  // Put the String to UpperCASE
   
-  if ((content == "16B9C0F7") || (content ==  "E9F9D72A") || (content ==  "43CD873")) {  // if the readed tag match with the defined UID it will make the green led light up
+  // if the readed tag match with the defined UID it will make the green led light up
+  if ((content == "16B9C0F7") || (content ==  "E9F9D72A") || (content ==  "43CD873") || (content ==  "16AC7BF9") || (content ==  "1637DF9") || (content ==  "36B87EF9")) {  
     digitalWrite(green_led, HIGH);  // Change the pin state to HIGH, its the same as turn on the led
     tone(buzzer, 1000, 300);  // using tone we can define the (buzzer_pin, frequency, duration)
     delay(2000);  // 2s delay
