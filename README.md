@@ -5,11 +5,12 @@ This repository contains some sketches of Arduino [projects](https://github.com/
 ## Sketches
 1. [Blink](https://github.com/Naff16/Arduino_DIY/tree/master/DIY/Blink_DIY)
 2. [Push button](https://github.com/Naff16/Arduino_DIY/tree/master/DIY/Push_Button_DIY)
-3. [LDR](https://github.com/Naff16/Arduino_DIY/blob/master/DIY/LDR_DIY)
-4. [Servo](https://github.com/Naff16/Arduino_DIY/tree/master/DIY/Servo_DIY)
-5. [Servo_LDR](https://github.com/Naff16/Arduino_DIY/tree/master/DIY/Servo_LDR_DIY)
-6. [RFID](https://github.com/Naff16/Arduino_DIY/tree/master/DIY/RFID_DIY)
-7. [DHT](https://github.com/Naff16/Arduino_DIY/tree/master/DIY/DHT_DIY)
+3. [Push button debounce](https://github.com/Naff16/Arduino_DIY/tree/master/DIY/Push_Button_debounce_DIY)
+4. [LDR](https://github.com/Naff16/Arduino_DIY/blob/master/DIY/LDR_DIY)
+5. [Servo](https://github.com/Naff16/Arduino_DIY/tree/master/DIY/Servo_DIY)
+6. [Servo_LDR](https://github.com/Naff16/Arduino_DIY/tree/master/DIY/Servo_LDR_DIY)
+7. [RFID](https://github.com/Naff16/Arduino_DIY/tree/master/DIY/RFID_DIY)
+8. [DHT](https://github.com/Naff16/Arduino_DIY/tree/master/DIY/DHT_DIY)
 
 ## How to start
 1. Install Arduino IDE
