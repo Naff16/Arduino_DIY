@@ -8,8 +8,8 @@
   Description:
   This program will use an LDR (Light Dependent Resistor), to detect the environment luminosity
   and control the angle of a servo motor.
-  LDR (0 -> Light / 1023 -> No light).
-  Servo motor ( 0° -> Closed / 180° -> Open).
+  LDR (0 -> No light / 1023 -> Light).
+  Servo motor ( 0° -> Open / 180° -> Closed).
 */
 
 #include <Servo.h> // Avaliable at: https://github.com/arduino-libraries/Servo

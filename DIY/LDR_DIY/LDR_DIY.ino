@@ -8,7 +8,7 @@
   Description:
   This program will use an LDR (Light Dependent Resistor), to detect the environment luminosity
   and turn on or off a light depending on it.
-  LDR (0 -> Light / 1024 -> No light).
+  LDR (0 -> No light / 1024 -> Light).
 */
 
 //Constants
@@ -28,7 +28,7 @@ void loop() {
   Serial.println(sensorValue); //prints the values coming from the sensor on the screen
 
   // Read the sensor value and depending on it, it turns on and off the light.
-  if (sensorValue > 350) {
+  if (sensorValue < 100) {
 
     digitalWrite(ledPin, HIGH);
   }
